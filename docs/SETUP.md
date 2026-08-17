@@ -11,8 +11,8 @@
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/santifer/career-ops.git
-cd career-ops
+git clone https://github.com/hrishabh1103/Personalized_Apply_Jobs.git
+cd Personalized_Apply_Jobs
 npm install
 npx playwright install chromium   # Required for PDF generation
 ```

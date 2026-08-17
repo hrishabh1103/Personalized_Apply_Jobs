@@ -82,8 +82,8 @@ Built by someone who used it to evaluate 740+ job offers, generate 100+ tailored
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/santifer/career-ops.git
-cd career-ops && npm install
+git clone https://github.com/hrishabh1103/Personalized_Apply_Jobs.git
+cd Personalized_Apply_Jobs && npm install
 npx playwright install chromium   # Required for PDF generation
 
 # 2. Check setup
@@ -279,11 +279,10 @@ career-ops/
 
 - **[cv-santiago](https://github.com/santifer/cv-santiago)** -- The portfolio website (santifer.io) with AI chatbot, LLMOps dashboard, and case studies. If you need a portfolio to showcase alongside your job search, fork it and make it yours.
 
-## About the Author
+## Author
 
-I'm Santiago -- Head of Applied AI, former founder (built and sold a business that still runs with my name on it). I built career-ops to manage my own job search. It worked: I used it to land my current role.
+Maintained & Customized by **Hrishabh Gupta**.
 
-My portfolio and other open source projects → [santifer.io](https://santifer.io)
 
 ## Star History
 
@@ -328,4 +327,4 @@ endorsement.
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/santifer)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8pRpHETxa4)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@santifer.io)
-# something_Great_is_being_Cooked_here
+# Personalized_Apply_Jobs

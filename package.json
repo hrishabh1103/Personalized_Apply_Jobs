@@ -24,11 +24,11 @@
     "career",
     "automation"
   ],
-  "author": "Santiago Fernández de Valderrama <hi@santifer.io> (https://santifer.io)",
-  "homepage": "https://santifer.io",
+  "author": "Hrishabh Gupta",
+  "homepage": "https://github.com/hrishabh1103/Personalized_Apply_Jobs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/santifer/career-ops"
+    "url": "https://github.com/hrishabh1103/Personalized_Apply_Jobs.git"
   },
   "license": "MIT",
   "dependencies": {
