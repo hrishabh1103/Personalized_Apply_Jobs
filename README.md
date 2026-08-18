@@ -231,13 +231,11 @@ career-ops/
 - **Dashboard**: Go + Bubble Tea + Lipgloss (Catppuccin Mocha theme)
 - **Data**: Markdown tables + YAML config + TSV batch files
 
-## Also Open Source
-
-- **[cv-santiago](https://github.com/santifer/cv-santiago)** -- The portfolio website (santifer.io) with AI chatbot, LLMOps dashboard, and case studies. If you need a portfolio to showcase alongside your job search, fork it and make it yours.
+s.
 
 ## Author
-
-Maintained & Customized by **Hrishabh Gupta**.
+Maintained by - **Claude**
+Customized by **Hrishabh Gupta**.
 
 
 ## Star History
