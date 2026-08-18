@@ -286,17 +286,17 @@ Maintained & Customized by **Hrishabh Gupta**.
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=santifer%2Fcareer-ops&type=timeline&legend=top-left">
+<a href="https://www.star-history.com/?repos=hrishabh1103%2FPersonalized_Apply_Jobs&type=timeline&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=santifer/career-ops&type=timeline&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=santifer/career-ops&type=timeline&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=santifer/career-ops&type=timeline&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=hrishabh1103/Personalized_Apply_Jobs&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=hrishabh1103/Personalized_Apply_Jobs&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=hrishabh1103/Personalized_Apply_Jobs&type=timeline&legend=top-left" />
  </picture>
 </a>
 
 ## Disclaimer
 
-**career-ops is a local, open-source tool — NOT a hosted service.** By using this software, you acknowledge:
+**Personalized_Apply_Jobs is a local, open-source tool — NOT a hosted service.** By using this software, you acknowledge:
 
 1. **You control your data.** Your CV, contact info, and personal data stay on your machine and are sent directly to the AI provider you choose (Anthropic, OpenAI, etc.). We do not collect, store, or have access to any of your data.
 2. **You control the AI.** The default prompts instruct the AI not to auto-submit applications, but AI models can behave unpredictably. If you modify the prompts or use different models, you do so at your own risk. **Always review AI-generated content for accuracy before submitting.**
@@ -307,24 +307,13 @@ See [LEGAL_DISCLAIMER.md](LEGAL_DISCLAIMER.md) for full details. This software i
 
 ## Contributors
 
-<a href="https://github.com/santifer/career-ops/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=santifer/career-ops" />
-</a>
-
-Got hired using career-ops? [Share your story!](https://github.com/santifer/career-ops/issues/new?template=i-got-hired.yml)
+- **[Hrishabh Gupta](https://github.com/hrishabh1103)**
 
 ## License & Trademark
 
-The code is licensed under [MIT](LICENSE). The "career-ops" name and
-brand are governed by the [Trademark Policy](TRADEMARK.md) — permissive
-for community use, reserved for commercial product naming and
-endorsement.
+The code is licensed under [MIT](LICENSE).
 
 ## Let's Connect
 
-[![Website](https://img.shields.io/badge/santifer.io-000?style=for-the-badge&logo=safari&logoColor=white)](https://santifer.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santifer)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/santifer)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8pRpHETxa4)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@santifer.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrishabh1103/Personalized_Apply_Jobs)
 # Personalized_Apply_Jobs
